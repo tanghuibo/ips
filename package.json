@@ -4,7 +4,7 @@
   "description": "mini ifconfig",
   "main": "index.js",
   "bin": {
-    "ips": "node index.js"
+    "ips": "index.js"
   },
   "scripts": {
     "test": "node index.js"
