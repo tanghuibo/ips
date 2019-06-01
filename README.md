@@ -33,4 +33,4 @@ IPv6 fe80::3a2e:1647:2ecf:22f7
 git clone git@github.com:tanghuibo/ips.git
 cd ips
 npm install . -g
-```
+```# fanyi
