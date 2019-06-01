@@ -1,0 +1,25 @@
+{
+  "name": "ips",
+  "version": "1.0.0",
+  "description": "mini ifconfig",
+  "main": "index.js",
+  "bin": {
+    "ips": "node index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanghuibo/ips.git"
+  },
+  "author": "tanghuibo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanghuibo/ips/issues"
+  },
+  "homepage": "https://github.com/tanghuibo/ips#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
