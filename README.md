@@ -25,7 +25,7 @@
 ### 安装
 
 ```bash
-git clone git@github.com:tanghuibo/ips.git
+git clone https://github.com/tanghuibo/ips.git
 cd ips
 npm install . -g
 ```
