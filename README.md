@@ -1,32 +1,27 @@
-## IPS
+<p align="center"><a href="#" target="_blank" rel="noopener noreferrer"><img width="250" src="./doc/logo.png"></a></p>
 
-简洁的ip查看工具
+简洁的本地IP查询工具
 
 ------
 
-### 传统的ifconfig
+### 当你想要查询本地IP的时候……
 
-```bash
->>> ifconfig
-enp3s0f1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
-        ether 80:fa:5b:42:ac:cd  txqueuelen 1000  (Ethernet)
-        RX packets 0  bytes 0 (0.0 B)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 0  bytes 0 (0.0 B)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-......
-```
+![ifconfig.png](./doc/ifconfig.png)
+
+是不是瞬间密集恐惧症就上来了？
+
+简洁的本地ip查询工具[IPS](#)来拯救你!
+
 --------------
-### IPS
 
-```bash
->>> ips
-IPv4 192.168.1.3
-IPv6 240e:390:e56:1770:89c1:1218:5ac8:8c76
-IPv6 240e:390:e56:1770:a5a6:85d2:db58:fe94
-IPv6 fe80::3a2e:1647:2ecf:22f7
-```
-----------------------
+### 使用教程
+
+命令行运行`ips` 
+
+![ips.png](./doc/ips.png)
+
+瞬间拿到ip地址
+
 ### 安装
 
 ```bash
