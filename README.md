@@ -25,7 +25,5 @@
 ### 安装
 
 ```bash
-git clone https://github.com/tanghuibo/ips.git
-cd ips
-npm install . -g
+npm install gips -g
 ```
