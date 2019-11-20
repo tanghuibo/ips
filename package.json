@@ -1,10 +1,10 @@
 {
-  "name": "ips",
-  "version": "1.0.0",
+  "name": "gips",
+  "version": "1.0.1",
   "description": "mini ifconfig",
   "main": "index.js",
   "bin": {
-    "ips": "index.js"
+    "gips": "index.js"
   },
   "scripts": {
     "test": "node index.js"
